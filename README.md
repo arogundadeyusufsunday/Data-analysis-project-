@@ -1,3 +1,8 @@
+<img width="320" height="320" alt="insight-logo-" src="https://github.com/user-attachments/assets/5210a05d-86b4-4dc4-bf58-ae854a71b3b7" />
+
+
+
+
 # Data-analysis-project-
  My project at incubator hub
 
